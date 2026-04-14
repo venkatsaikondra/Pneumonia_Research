@@ -2,7 +2,7 @@
 
 <img width="234" height="167" alt="image" src="https://github.com/user-attachments/assets/dd123697-f9f5-4c7f-8cf6-eba83fe645c2" />
 
-># 🫁 A Comparative Study of CNN, Vision Transformer, and Hybrid-ViT Architectures for Multiclassification in Pneumonia 
+># 🫁 “Multi-Scale Weighted Ensemble of CNN Architectures with Test-Time Augmentation for Robust Multi-Class Pneumonia Classification”
 
 > A systematic comparative study of Convolutional Neural Networks, Vision Transformers, and a Hybrid-ViT architecture on balanced, separately-augmented chest X-ray data for multi-class pneumonia detection.
 
