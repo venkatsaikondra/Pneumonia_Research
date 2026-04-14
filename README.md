@@ -47,10 +47,101 @@ After adding all the data it became as
 #Normal-2971
 #Bacterial-2699
 #Viral-2713
-I want to make it balanced so i made all 2699 samples in each class .
-The total it became 10784.
+
+1. Class Balancing
+******************
+To eliminate class imbalance and avoid biased model learning:
+
+-> The class with the minimum samples (2699) was selected as the reference.
+
+->All other classes were downsampled to 2699 images.
+
+4 classes × 2699 images each = 10,784 total images
+
+Data Preprocessing
+--------------------
+
+2. Image Preprocessing
+***********************
+
+Each image undergoes preprocessing using OpenCV before feeding into the model.
+
+   Step 1: Load Image in Grayscale
+
+-> Converts chest X-ray into single-channel grayscale.
+
+-> Removes unnecessary color information (important for medical images)
+
+   Step 2: Apply CLAHE (Contrast Enhancement)
+
+-> CLAHE = Contrast Limited Adaptive Histogram Equalization
+
+-> Enhances local contrast
+
+-> Highlights important lung features (e.g., opacities, infections)
+
+   Step 3: Resize Image
+
+-> Standardizes all images to 224 × 224
+
+-> Required for models like ResNet, ViT, EfficientNet
+
+   Step 4: Convert to 3 Channels
+
+-> Converts grayscale → pseudo RGB (3 channels)
+
+-> Needed because pretrained models expect 3-channel input
 
 
+3. Data Augmentation & Normalization
+*************************************
+
+Training Transformations
+---------------------------
+
+Resize → ensures uniform input size
+RandomHorizontalFlip → improves generalization
+RandomRotation (±10°) → simulates real-world variation
+ColorJitter → adds slight intensity variation
+ToTensor → converts image to PyTorch tensor
+Normalization → scales pixel values to [-1, 1]
+
+Validation & Test Transformations
+----------------------------------
+
+No augmentation applied
+
+Ensures fair evaluation
+
+4. Dataset Splitting
+*********************
+
+The balanced dataset (Equal_sample/) is split into:
+
+-> Training set (70%)
+-> Validation set (15%)
+-> Test set (15%)
+
+Random splitting ensures unbiased distribution
+
+random_state=42 ensures reproducibility
+
+5. Directory Structure Creation
+__________________________________
+
+The processed dataset is organized into:
+
+Final_Data/
+    ├── train/
+    ├── val/
+    └── test/
+        ├── Covid-19/
+        ├── Normal/
+        ├── Pneumonia-Bacterial/
+        └── Pneumonia-Viral/
+
+CNN
+********
 
 Alexnet:-
 
@@ -146,13 +237,22 @@ TransUNet
 
 
 Proposed_Model
++++++++++++++++
+
+MSW-EnsNet
+
+<img width="869" height="236" alt="image" src="https://github.com/user-attachments/assets/744e4cfa-ab43-4ac8-bbd8-5cdf94b862d1" />
+
+
+<img width="881" height="438" alt="image" src="https://github.com/user-attachments/assets/36bb8308-6fbb-4053-a322-2791691f75f0" />
 
 
 
+<img width="843" height="460" alt="image" src="https://github.com/user-attachments/assets/9596e214-2c4f-433b-b5e2-8653be573d3f" />
 
 
 
-
+<img width="872" height="617" alt="image" src="https://github.com/user-attachments/assets/f545d01b-209a-4303-84ec-4b7129cee960" />
 
 
 
