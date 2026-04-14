@@ -235,6 +235,32 @@ TransUNet
 
 <img width="1207" height="674" alt="image" src="https://github.com/user-attachments/assets/fe10ce06-310e-4f2c-8ca6-36421f9ec42a" />
 
+Hybrid_ResViT
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      1.00       404
+           1       0.98      0.98      0.98       404
+           2       0.84      0.87      0.85       404
+           3       0.86      0.83      0.85       404
+
+    accuracy                           0.92      1616
+   macro avg       0.92      0.92      0.92      1616
+weighted avg       0.92      0.92      0.92      1616
+
+Confusion Matrix:
+
+[[401   1   0   2]
+
+ [  0 395   5   4]
+ 
+ [  0   3 353  48]
+ 
+ [  0   3  64 337]]
+ 
+Epoch 20,  Loss: 195.2859,   Val Acc: 0.9196
+
 
 Proposed_Model
 +++++++++++++++
