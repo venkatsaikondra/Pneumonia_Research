@@ -246,7 +246,9 @@ Classification Report:
            3       0.86      0.83      0.85       404
 
     accuracy                           0.92      1616
+    
    macro avg       0.92      0.92      0.92      1616
+   
 weighted avg       0.92      0.92      0.92      1616
 
 Confusion Matrix:
@@ -281,6 +283,11 @@ MSW-EnsNet
 <img width="872" height="617" alt="image" src="https://github.com/user-attachments/assets/f545d01b-209a-4303-84ec-4b7129cee960" />
 
 
+Analysis
+++++++++
+
+
+<img width="845" height="652" alt="image" src="https://github.com/user-attachments/assets/19dbbcae-c6e3-41e0-a977-e1347ed62890" />
 
 
 
