@@ -1,5 +1,57 @@
 # Pneumonia_Research
 
+<img width="234" height="167" alt="image" src="https://github.com/user-attachments/assets/dd123697-f9f5-4c7f-8cf6-eba83fe645c2" />
+
+># 🫁 A Comparative Study of CNN, Vision Transformer, and Hybrid-ViT Architectures for Multiclassification in Pneumonia 
+
+> A systematic comparative study of Convolutional Neural Networks, Vision Transformers, and a Hybrid-ViT architecture on balanced, separately-augmented chest X-ray data for multi-class pneumonia detection.
+
+Introduction
+------------
+
+Pneumonia, a respiratory infection caused by either viral or bacterial pathogens.In humans, the lungs contain tiny sacs called alveoli, which fill with air during healthy breathing.When pneumonia occurs, thes aveoli become filled with pus and fluid, causing discomfory and difficulty in breathing and restricting oxygen intake.Statistically, pneumonia impacts approximately 1,400 children per 100,000,contributing to 14% of fatalities among children below five years of age in 2019, resulting in the deaths of 740,180 children. In 2017, pneumonia caused over 808,000 deaths among children under five, representing 15% of all fatalities in this age group.The reduction in these figures can be
+attributed to improved detection techniques and the development of health technologies such as vaccines.
+The primary diagnostic tool for pneumonia is chest X-rays,where areas of infection are identified by white patches in the pulmonary region.
+
+CNN:-
+The CNN model examines connections between neighboring pixels within a specific receptive field defined by the filter size. Despite its effectiveness in capturing local spatial hierarchies, it struggles with recognizing relationships between distant pixels, which hinders its ability to understand the broader context and more complex patterns within an image. 
+To overcome this limitation, recent advancements have integrated attention mechanisms, allowing the model to dynamically weigh the importance of pixels, regardless of their distance from each other. This enhancement helps capture both local and global dependencies more effectively.
+
+Vision Transformer (ViT):-
+Unlike CNNs, which are restricted by the local receptive field of filters, the Vision Transformer (ViT) architecture abandons convolutions entirely in favor of Self-Attention mechanisms. It treats an image as a sequence of patches (visual tokens), allowing every pixel to interact with every other pixel across the entire image simultaneously.
+
+Hybrid-ViT :-
+The Hybrid-ViT architecture represents the current state-of-the-art for your pneumonia classification task. It combines the best of both worlds: using a CNN backbone (like ResNet or BiT) to extract low-level spatial features (textures and edges) and Transformer blocks to process those features with global attention.
+
+## 📌 Overview
+
+There are 4 classes of dataset that had taken.
+
+| Class | Description |
+|-------|-------------|
+| `Normal` | Healthy chest X-ray |
+| `Viral Pneumonia` | Pneumonia caused by viral infection |
+| `Bacterial Pneumonia` | Pneumonia caused by bacterial infection |
+| `COVID-19 Pneumonia` | Pneumonia associated with SARS-CoV-2 |
+
+## Methodology
+
+Data Collection
+---------------
+
+From Kaggle
+
+The data was took from kaggle(https://www.kaggle.com/datasets/mohamedasak/chest-x-ray-6-classes-dataset)
+After adding all the data it became as 
+#Covid-2717
+#Normal-2971
+#Bacterial-2699
+#Viral-2713
+I want to make it balanced so i made all 2699 samples in each class .
+The total it became 10784.
+
+
+
 Alexnet:-
 
 <img width="833" height="212" alt="image" src="https://github.com/user-attachments/assets/55bbf428-d413-48de-a27e-24e221daed21" />
