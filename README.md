@@ -155,11 +155,18 @@ DenseNet121:-
 
 <img width="823" height="682" alt="image" src="https://github.com/user-attachments/assets/acb6fa09-486e-42e1-9316-aca771ae8807" />
 
-EfficientB0
+EfficientNetB0
 
 <img width="837" height="223" alt="image" src="https://github.com/user-attachments/assets/40aaf6eb-1cb7-4195-8518-ccbe9bb7c88a" />
 
 <img width="876" height="683" alt="image" src="https://github.com/user-attachments/assets/09163e33-6932-4f10-a731-c13147ff2acd" />
+
+EfficientNetB4
+
+<img width="709" height="270" alt="image" src="https://github.com/user-attachments/assets/915a7136-8bbf-4a85-8582-e3d742c4ef59" />
+
+<img width="870" height="632" alt="image" src="https://github.com/user-attachments/assets/2ba58913-6ecd-432e-a05d-9e344b044c50" />
+
 
 InceptionV3
 
