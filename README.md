@@ -270,6 +270,13 @@ Confusion Matrix:
  
 Epoch 20,  Loss: 195.2859,   Val Acc: 0.9196
 
+swim+EfficientNetB4+inceptionV3(Ensemble)
+-----------------------------------------
+
+<img width="873" height="253" alt="image" src="https://github.com/user-attachments/assets/07df06c1-b305-4dae-b3a0-8fb89c936765" />
+
+<img width="824" height="500" alt="image" src="https://github.com/user-attachments/assets/a6149245-0779-4c7f-965f-a6dd7d5e4f3b" />
+
 
 Proposed_Model
 +++++++++++++++
