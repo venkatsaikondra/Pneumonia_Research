@@ -283,18 +283,25 @@ Proposed_Model
 
 MSW-EnsNet
 
-<img width="869" height="236" alt="image" src="https://github.com/user-attachments/assets/744e4cfa-ab43-4ac8-bbd8-5cdf94b862d1" />
+
+<img width="576" height="230" alt="image" src="https://github.com/user-attachments/assets/2a05c07d-505a-4c5f-af7b-152c0d8d75e0" />
 
 
-<img width="881" height="438" alt="image" src="https://github.com/user-attachments/assets/36bb8308-6fbb-4053-a322-2791691f75f0" />
+<img width="392" height="420" alt="image" src="https://github.com/user-attachments/assets/45ba1e38-20aa-4133-a2c7-af6ca7d22d46" />
+
+
+<img width="533" height="455" alt="image" src="https://github.com/user-attachments/assets/90772485-e9d5-4dc7-a11a-479621d053db" />
 
 
 
-<img width="843" height="460" alt="image" src="https://github.com/user-attachments/assets/9596e214-2c4f-433b-b5e2-8653be573d3f" />
+
+
+<img width="719" height="611" alt="image" src="https://github.com/user-attachments/assets/f868dd86-f83b-43b2-9eb4-53bcc360902e" />
 
 
 
-<img width="872" height="617" alt="image" src="https://github.com/user-attachments/assets/f545d01b-209a-4303-84ec-4b7129cee960" />
+<img width="696" height="551" alt="image" src="https://github.com/user-attachments/assets/f38152f0-1002-4284-bd03-031d001e1425" />
+
 
 
 Analysis
