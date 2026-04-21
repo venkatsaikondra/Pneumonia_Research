@@ -311,6 +311,93 @@ Analysis
 <img width="845" height="652" alt="image" src="https://github.com/user-attachments/assets/19dbbcae-c6e3-41e0-a977-e1347ed62890" />
 
 
+
+ Weighted_Decision_Fusion 
+ ------------------------
+
+ Ablation study
+
+ -----------------
+
+  w1 = 0.10    w2= 0.90 
+
+  <img width="853" height="238" alt="image" src="https://github.com/user-attachments/assets/4eaabef5-3aa2-4e9a-9506-59366617ecf1" />
+
+
+<img width="868" height="631" alt="image" src="https://github.com/user-attachments/assets/73e62440-859a-42f4-9ce5-497877110716" />
+
+
+w1=0.90 w2=0.10
+
+
+<img width="826" height="224" alt="image" src="https://github.com/user-attachments/assets/5f1f5cea-355d-4818-b758-ac4712db4a6c" />
+
+
+<img width="847" height="616" alt="image" src="https://github.com/user-attachments/assets/680ed5ca-2328-4b1c-8ef1-9f09b36701cf" />
+
+
+w1=1.0 w2=0.0
+
+<img width="746" height="232" alt="image" src="https://github.com/user-attachments/assets/cfc35680-7a2d-4d4f-a6b5-55fe422d5d8c" />
+
+<img width="845" height="623" alt="image" src="https://github.com/user-attachments/assets/6ca19afb-1d28-43ed-a0d2-87d8da509f0e" />
+
+
+
+w1=0.0 w2=1.0
+
+<img width="745" height="238" alt="image" src="https://github.com/user-attachments/assets/01899d6e-a97d-426e-be6e-ce18f2a114ac" />
+
+<img width="860" height="619" alt="image" src="https://github.com/user-attachments/assets/ce8385dd-fa12-4e92-a1d4-83d1211fbe45" />
+
+
+
+w1=0.5 w2=0.5
+
+
+<img width="748" height="232" alt="image" src="https://github.com/user-attachments/assets/b8101e1b-f6be-4b2c-b8bd-e17f8183da73" />
+
+
+<img width="857" height="611" alt="image" src="https://github.com/user-attachments/assets/ad3bc010-9743-4fae-a3d3-7cc88f985e68" />
+
+
+
+w1=0.7 w2=0.3
+
+
+<img width="769" height="240" alt="image" src="https://github.com/user-attachments/assets/fb47ca4f-a092-4583-92f1-84917087bdbe" />
+
+
+<img width="876" height="608" alt="image" src="https://github.com/user-attachments/assets/2df1b782-78df-4971-9adc-87213f9fbeef" />
+
+
+w1=0.3 w2=0.7
+
+<img width="809" height="230" alt="image" src="https://github.com/user-attachments/assets/2429ecc1-d67c-4f07-a36d-ddbf942f624b" />
+
+
+
+<img width="850" height="632" alt="image" src="https://github.com/user-attachments/assets/dcde99a5-88fa-4866-b780-2a832e60850a" />
+
+
+
+  Table X: Ablation Study on Weighted Decision Fusion
+
+--------------------------------------------------------
+Weights (EffNet / Inception) | F1 Score | Accuracy
+--------------------------------------------------------
+1.0 / 0.0 (Eff only)         | ??       | ??
+0.0 / 1.0 (Inc only)         | ??       | ??
+0.9 / 0.1                    | 0.9470   | 0.95
+0.7 / 0.3                    | (RUN THIS)
+0.5 / 0.5                    | 0.9507   | 0.95
+0.3 / 0.7                    | (RUN THIS)
+0.1 / 0.9                    | 0.9390   | 0.94
+--------------------------------------------------------
+
+
+
+
 Architecture of proposed model
 -----------------------------------
 
