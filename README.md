@@ -162,9 +162,17 @@ Alexnet:-
 
 DenseNet121:-
 
-<img width="829" height="214" alt="image" src="https://github.com/user-attachments/assets/ffb21695-a06e-4f40-863a-bc650ed303f7" />
+<img width="562" height="227" alt="image" src="https://github.com/user-attachments/assets/9cf9a4bd-e1f6-4c14-a6a6-bef2e299ec73" />
 
-<img width="823" height="682" alt="image" src="https://github.com/user-attachments/assets/acb6fa09-486e-42e1-9316-aca771ae8807" />
+
+<img width="756" height="690" alt="image" src="https://github.com/user-attachments/assets/c8c4348a-947d-4245-9789-bad8ee49e4c7" />
+
+<img width="898" height="699" alt="image" src="https://github.com/user-attachments/assets/3a3eb944-5c79-4ab6-a0d3-96d230f932e3" />
+
+
+
+<img width="421" height="434" alt="image" src="https://github.com/user-attachments/assets/2ffa0da9-883e-4698-837a-301f00634683" />
+
 
 EfficientNetB0
 
