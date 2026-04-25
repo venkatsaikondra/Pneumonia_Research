@@ -145,9 +145,20 @@ CNN
 
 Alexnet:-
 
-<img width="833" height="212" alt="image" src="https://github.com/user-attachments/assets/55bbf428-d413-48de-a27e-24e221daed21" />
 
-<img width="844" height="676" alt="image" src="https://github.com/user-attachments/assets/346b1b09-e37f-4004-921b-67b076a9b791" />
+<img width="500" height="198" alt="image" src="https://github.com/user-attachments/assets/3ffe3cab-cd5e-4314-9aa1-090d7d6d9438" />
+
+<img width="641" height="623" alt="image" src="https://github.com/user-attachments/assets/81eb9370-7838-4a3d-9dd7-3af36d6b05de" />
+
+
+<img width="695" height="513" alt="image" src="https://github.com/user-attachments/assets/ce49a77f-439c-4ec0-91f0-afef68a3f531" />
+
+
+<img width="418" height="412" alt="image" src="https://github.com/user-attachments/assets/b965a024-b900-45b7-8fe1-868f1ed299c0" />
+
+
+<img width="435" height="419" alt="image" src="https://github.com/user-attachments/assets/3f72163f-44e3-4cc6-af12-2d8868c078cf" />
+
 
 DenseNet121:-
 
