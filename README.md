@@ -176,9 +176,12 @@ DenseNet121:-
 
 EfficientNetB0
 
-<img width="837" height="223" alt="image" src="https://github.com/user-attachments/assets/40aaf6eb-1cb7-4195-8518-ccbe9bb7c88a" />
+<img width="554" height="215" alt="image" src="https://github.com/user-attachments/assets/8bf7449e-532d-4d7f-ac81-fb4754b06ebe" />
 
-<img width="876" height="683" alt="image" src="https://github.com/user-attachments/assets/09163e33-6932-4f10-a731-c13147ff2acd" />
+<img width="662" height="614" alt="image" src="https://github.com/user-attachments/assets/67947876-3d56-4266-ae7c-8c109dbafb81" />
+
+<img width="584" height="444" alt="image" src="https://github.com/user-attachments/assets/65a98919-260d-4e3e-bc73-21d78eb5c9c3" />
+
 
 EfficientNetB4
 
