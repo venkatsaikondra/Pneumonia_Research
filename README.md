@@ -239,9 +239,15 @@ SqueezeNet
 
 VGG19
 
-<img width="842" height="240" alt="image" src="https://github.com/user-attachments/assets/ebce4667-7f38-4346-a35a-6aa05a804af4" />
+<img width="573" height="216" alt="image" src="https://github.com/user-attachments/assets/556d918b-118a-42b8-b950-7120495a3256" />
 
-<img width="867" height="690" alt="image" src="https://github.com/user-attachments/assets/e37b4013-5cd7-41e1-a2ec-9e5ef5430b97" />
+<img width="691" height="627" alt="image" src="https://github.com/user-attachments/assets/1f93a96f-cdba-4c76-b96e-d44b48173220" />
+
+<img width="536" height="438" alt="image" src="https://github.com/user-attachments/assets/1046bd1a-2c2a-4268-9d04-92cc3e3dca6b" />
+
+<img width="395" height="405" alt="image" src="https://github.com/user-attachments/assets/1ce4d727-9f0a-4511-87b9-f23e8b13d3e2" />
+
+<img width="464" height="438" alt="image" src="https://github.com/user-attachments/assets/24c42ef7-3b3e-4e09-bee9-d0c73ad400b1" />
 
 Vision_Transformers
 
