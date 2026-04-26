@@ -195,7 +195,8 @@ InceptionV3
 <img width="776" height="244" alt="image" src="https://github.com/user-attachments/assets/3d310437-76c5-493d-824d-018f1b90ed6f" />
 
 
-<img width="829" height="685" alt="image" src="https://github.com/user-attachments/assets/8f93d702-d817-41a4-a429-6d3b3deb3d29" />
+<img width="767" height="700" alt="image" src="https://github.com/user-attachments/assets/80767082-eaf1-41a0-a313-9eb9588bc583" />
+
 
 
 <img width="1394" height="944" alt="image" src="https://github.com/user-attachments/assets/d07dd67a-2660-47fa-a579-c99441ff6dfe" />
@@ -210,15 +211,31 @@ InceptionV3
 
 ResNet50
 
-<img width="751" height="244" alt="image" src="https://github.com/user-attachments/assets/9306fd4d-6057-4575-ab36-9133d4822db8" />
+<img width="530" height="197" alt="image" src="https://github.com/user-attachments/assets/0145098c-60d6-4b8b-be4b-e52a57db2d55" />
 
-<img width="822" height="684" alt="image" src="https://github.com/user-attachments/assets/be5b8531-8d05-496c-a3c9-2538b67f4b0b" />
+
+<img width="666" height="626" alt="image" src="https://github.com/user-attachments/assets/780bb43a-90d0-4302-b9d9-d337dc436afe" />
+
+<img width="717" height="515" alt="image" src="https://github.com/user-attachments/assets/6bab1565-80a2-4826-99f1-4283e6e280eb" />
+
+
+<img width="431" height="393" alt="image" src="https://github.com/user-attachments/assets/26b0796e-f5bb-4aa1-a6c5-5d5d05285b57" />
+
+<img width="466" height="380" alt="image" src="https://github.com/user-attachments/assets/e7a85e6e-dd0e-487c-925a-8f23e7be5070" />
+
 
 SqueezeNet
 
-<img width="761" height="261" alt="image" src="https://github.com/user-attachments/assets/00415a03-86cd-4bb1-80b9-dbe8af2bc072" />
+<img width="516" height="207" alt="image" src="https://github.com/user-attachments/assets/acc98369-c0d1-494d-ab5c-a41af514bbf1" />
 
-<img width="829" height="682" alt="image" src="https://github.com/user-attachments/assets/368857bd-e1cb-45b3-b77d-404514c9d966" />
+<img width="819" height="623" alt="image" src="https://github.com/user-attachments/assets/148f754c-014d-41a0-a64e-e7a269271b0e" />
+
+<img width="632" height="423" alt="image" src="https://github.com/user-attachments/assets/04ca6d0b-3254-4dd8-99a9-b6edec49fc1d" />
+
+<img width="458" height="409" alt="image" src="https://github.com/user-attachments/assets/6be3c72b-bb6d-4e8e-837c-4fd83b9744d3" />
+
+<img width="547" height="393" alt="image" src="https://github.com/user-attachments/assets/1a2b797a-3265-4fe0-b316-4ed81236ad9c" />
+
 
 VGG19
 
