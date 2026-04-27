@@ -185,9 +185,17 @@ EfficientNetB0
 
 EfficientNetB4
 
-<img width="709" height="270" alt="image" src="https://github.com/user-attachments/assets/915a7136-8bbf-4a85-8582-e3d742c4ef59" />
+<img width="511" height="221" alt="image" src="https://github.com/user-attachments/assets/adc6cf84-c8a7-43af-9855-0ad421a40cee" />
 
-<img width="870" height="632" alt="image" src="https://github.com/user-attachments/assets/2ba58913-6ecd-432e-a05d-9e344b044c50" />
+<img width="635" height="554" alt="image" src="https://github.com/user-attachments/assets/e25ff913-4fd1-4a1e-99a0-def73718c379" />
+
+
+<img width="578" height="430" alt="image" src="https://github.com/user-attachments/assets/6c96c218-d28c-4cd2-90f8-5a2408682e2b" />
+
+
+<img width="400" height="396" alt="image" src="https://github.com/user-attachments/assets/5a0b875b-caf0-4190-bff6-f8ee8a7d9e28" />
+
+<img width="478" height="400" alt="image" src="https://github.com/user-attachments/assets/aecb900a-9a36-4d0c-88e5-295f652c81fe" />
 
 
 InceptionV3
@@ -309,53 +317,61 @@ BotNet
 
 Mobile Vit
 
+<img width="522" height="197" alt="image" src="https://github.com/user-attachments/assets/db9fbd85-36b2-4256-b1ed-4f85bf1ccffe" />
+
+
+<img width="672" height="634" alt="image" src="https://github.com/user-attachments/assets/25439b81-14e2-498a-9b45-0cc72e45a0a8" />
+
+
+<img width="544" height="427" alt="image" src="https://github.com/user-attachments/assets/79d97a09-169a-4082-a84f-697e30456a16" />
+
+
 <img width="809" height="229" alt="image" src="https://github.com/user-attachments/assets/826cdca8-2a4d-4ed2-ab01-f87f77e3f830" />
 
 <img width="979" height="694" alt="image" src="https://github.com/user-attachments/assets/68ee439a-c9e1-461a-96fd-8a80083e8f8a" />
 
 
-ConViT
+ConViT_Base
 
-<img width="1032" height="227" alt="image" src="https://github.com/user-attachments/assets/eb700267-7426-4363-8fae-dcdae9281b81" />
+<img width="587" height="230" alt="image" src="https://github.com/user-attachments/assets/f6c07c5c-c158-4e77-a5b6-301317e51dbb" />
 
-<img width="956" height="694" alt="image" src="https://github.com/user-attachments/assets/e1f26754-1cd3-4464-a696-103811e91bd8" />
+<img width="739" height="689" alt="image" src="https://github.com/user-attachments/assets/7518e058-f11f-4791-8503-5187d8f0c54c" />
+
+<img width="601" height="507" alt="image" src="https://github.com/user-attachments/assets/41141b90-e168-4636-be36-27cbea2d58db" />
+
+<img width="498" height="423" alt="image" src="https://github.com/user-attachments/assets/2e3ffb1d-6e45-4fad-bc31-9e28a2fe943b" />
+
+
 
 TransUNet
 
-<img width="1167" height="211" alt="image" src="https://github.com/user-attachments/assets/0b2a3897-526c-482e-bcf4-6c6e33bbe5bd" />
+<img width="537" height="212" alt="image" src="https://github.com/user-attachments/assets/8d33c9dc-16f4-4b96-9486-32a67cb51436" />
 
-<img width="1207" height="674" alt="image" src="https://github.com/user-attachments/assets/fe10ce06-310e-4f2c-8ca6-36421f9ec42a" />
+<img width="652" height="603" alt="image" src="https://github.com/user-attachments/assets/b336518a-8a87-44b0-a872-64d0b054bfa3" />
+
+<img width="583" height="462" alt="image" src="https://github.com/user-attachments/assets/37dd7412-9b37-4afc-93c4-c4c64c40202a" />
+
+<img width="422" height="405" alt="image" src="https://github.com/user-attachments/assets/e52e2f00-9da2-4f95-b324-fe1aa7c90e2f" />
+
+<img width="485" height="447" alt="image" src="https://github.com/user-attachments/assets/83b562e5-0fe8-4b45-9b93-c00dcf4440d6" />
+
+
 
 Hybrid_ResViT
 
-Classification Report:
-              precision    recall  f1-score   support
+<img width="486" height="347" alt="image" src="https://github.com/user-attachments/assets/4dd1e8c7-c024-4d0f-bc56-16580def5ed2" />
 
-           0       1.00      0.99      1.00       404
-           1       0.98      0.98      0.98       404
-           2       0.84      0.87      0.85       404
-           3       0.86      0.83      0.85       404
+<img width="528" height="431" alt="image" src="https://github.com/user-attachments/assets/ed37deaf-7638-4b62-a1ad-94524b584653" />
 
-    accuracy                           0.92      1616
-    
-   macro avg       0.92      0.92      0.92      1616
-   
-weighted avg       0.92      0.92      0.92      1616
 
-Confusion Matrix:
+<img width="399" height="398" alt="image" src="https://github.com/user-attachments/assets/9bea8683-27dd-46ec-b531-379b1dc6e2e6" />
 
-[[401   1   0   2]
 
- [  0 395   5   4]
- 
- [  0   3 353  48]
- 
- [  0   3  64 337]]
- 
-Epoch 20,  Loss: 195.2859,   Val Acc: 0.9196
 
 swim+EfficientNetB4+inceptionV3(Ensemble)
 -----------------------------------------
+
+
 
 <img width="873" height="253" alt="image" src="https://github.com/user-attachments/assets/07df06c1-b305-4dae-b3a0-8fb89c936765" />
 
@@ -431,64 +447,12 @@ Architecture of proposed model
 
 
 
-                        ┌────────────────────────────┐
-                        │     Chest X-ray Input      │
-                        │   (Single image → dual)    │
-                        └────────────┬───────────────┘
-                                     │
-                 ┌───────────────────┴───────────────────┐
-                 │                                       │
+<img width="1007" height="567" alt="image" src="https://github.com/user-attachments/assets/6b98c811-0325-4dfc-aa3a-4f53608cd3e3" />
 
-        ┌───────────────────────┐           ┌───────────────────────┐
-        │   EfficientNet-B4     │           │     Inception-V3      │
-        │    (Global Branch)    │           │     (Local Branch)    │
-        └──────────┬────────────┘           └──────────┬────────────┘
-                   │                                   │
 
-        ┌───────────────────────┐           ┌───────────────────────┐
-        │     SE Attention      │           │    Parallel Filters   │
-        │ (Squeeze & Excite)    │           │   (1x1, 3x3, 5x5)     │
-        └──────────┬────────────┘           └──────────┬────────────┘
-                   │                                   │
 
-        ┌───────────────────────┐           ┌───────────────────────┐
-        │    Global Features    │           │     Local Features    │
-        │  - Lung symmetry      │           │  - Texture patterns   │
-        │  - Diffuse opacities  │           │  - Edge irregularity  │
-        └──────────┬────────────┘           └──────────┬────────────┘
-                   │                                   │
 
-        ┌───────────────────────┐           ┌───────────────────────┐
-        │        Softmax        │           │        Softmax        │
-        │        (P1)           │           │        (P2)           │
-        └──────────┬────────────┘           └──────────┬────────────┘
-                   │                                   │
-                   └──────────────┬────────────────────┘
-                                  │
 
-                  ┌───────────────────────────────────┐
-                  │   Weighted Decision Fusion        │
-                  │   Output = 0.55 * P1 + 0.45 * P2  │
-                  └────────────────┬──────────────────┘
-                                   │
-
-                  ┌───────────────────────────────────┐
-                  │      Class-Aware Weighting        │
-                  │  weights = [1.0, 1.0, 1.2, 1.2]   │
-                  │  (Boost minority classes)         │
-                  └────────────────┬──────────────────┘
-                                   │
-
-                  ┌───────────────────────────────────┐
-                  │  Test-Time Augmentation (TTA)     │
-                  │  (original + flips → average)     │
-                  └────────────────┬──────────────────┘
-                                   │
-
-                  ┌───────────────────────────────────┐
-                  │        Final Prediction           │
-                  │  Normal | COVID | Bacterial | Viral│
-                  └───────────────────────────────────┘
 
 
 
