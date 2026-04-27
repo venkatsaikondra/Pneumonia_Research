@@ -253,15 +253,29 @@ Vision_Transformers
 
 Swim_Transformer
 
-<img width="838" height="218" alt="image" src="https://github.com/user-attachments/assets/31bfd1f8-edcc-40d6-b497-19dc01506566" />
+<img width="511" height="209" alt="image" src="https://github.com/user-attachments/assets/1a5ba23d-9b45-487a-9243-d7da253bdd9e" />
 
-<img width="837" height="678" alt="image" src="https://github.com/user-attachments/assets/28f91351-daa6-4afe-93d0-6ae75e14b6b2" />
+<img width="704" height="633" alt="image" src="https://github.com/user-attachments/assets/bf7d2afe-e664-4f08-9d4a-35f446b8e8fd" />
+
+<img width="584" height="427" alt="image" src="https://github.com/user-attachments/assets/b580ba80-1722-4657-ab69-0d831593ef8b" />
+
+<img width="379" height="397" alt="image" src="https://github.com/user-attachments/assets/0b1c28a7-1103-4ecc-bb3f-2391ff561ff7" />
+
+<img width="378" height="394" alt="image" src="https://github.com/user-attachments/assets/2d6ed339-8945-4274-a958-2bcdc0fa1f69" />
+
 
 Vit_Base_Small_16
 
-<img width="1223" height="238" alt="image" src="https://github.com/user-attachments/assets/0a9ed8db-a314-4e15-bb20-e9a18fa815e0" />
+<img width="569" height="226" alt="image" src="https://github.com/user-attachments/assets/cddb02dd-5221-41f7-a9d0-edfbe68cd863" />
 
-<img width="1002" height="691" alt="image" src="https://github.com/user-attachments/assets/0c84be45-e3aa-40d5-9769-492290fd8244" />
+<img width="742" height="687" alt="image" src="https://github.com/user-attachments/assets/b0c74a90-d03e-4f12-9a9f-641bc087f434" />
+
+<img width="609" height="499" alt="image" src="https://github.com/user-attachments/assets/27e5bbc7-54c8-4ef2-a2ec-fc1f7da47b16" />
+
+<img width="444" height="447" alt="image" src="https://github.com/user-attachments/assets/9bf93472-1b22-489e-85fa-15bd5f95b84e" />
+
+
+<img width="477" height="429" alt="image" src="https://github.com/user-attachments/assets/656ec0ed-73df-4cdd-9a66-a66b6c8f9563" />
 
 
 BEiT
