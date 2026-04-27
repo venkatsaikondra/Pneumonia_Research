@@ -280,18 +280,32 @@ Vit_Base_Small_16
 
 BEiT
 
-<img width="1064" height="244" alt="image" src="https://github.com/user-attachments/assets/c080b850-7044-418a-9906-df70e4cba8eb" />
+<img width="551" height="207" alt="image" src="https://github.com/user-attachments/assets/e1a9f931-2121-430f-94d2-43613efc81f0" />
 
-<img width="835" height="683" alt="image" src="https://github.com/user-attachments/assets/7a6aff63-b909-438a-93a1-9708de4c6c45" />
+<img width="666" height="626" alt="image" src="https://github.com/user-attachments/assets/b89fbfc1-a307-41e6-96ff-b780f4f70354" />
+
+<img width="536" height="458" alt="image" src="https://github.com/user-attachments/assets/81c8d9d8-35c5-4e2c-b05f-1b46a67c4f66" />
+
+<img width="423" height="409" alt="image" src="https://github.com/user-attachments/assets/dcb77e43-f909-4f80-bf1c-13f0b4ead5df" />
+
+<img width="447" height="409" alt="image" src="https://github.com/user-attachments/assets/5d1ef723-2f49-4ee2-a7f4-8aa0e4c68c22" />
+
 
 Hybrid_ViT
 -----------
 
 BotNet
 
-<img width="1081" height="209" alt="image" src="https://github.com/user-attachments/assets/479e7131-503c-477c-8327-0c223b9a95aa" />
+<img width="590" height="220" alt="image" src="https://github.com/user-attachments/assets/5c507834-bee2-4f35-a9da-06878582065c" />
 
-<img width="1057" height="685" alt="image" src="https://github.com/user-attachments/assets/6d0c2416-4d62-4c71-aa30-a34fb5cef148" />
+<img width="732" height="678" alt="image" src="https://github.com/user-attachments/assets/e16bf234-84c8-4a69-8ac8-7e95aea795c9" />
+
+<img width="625" height="479" alt="image" src="https://github.com/user-attachments/assets/2328cfcb-b75a-4366-8d58-e3a7e0673028" />
+
+<img width="439" height="411" alt="image" src="https://github.com/user-attachments/assets/99aeb3dd-87ae-4ad6-a687-197872a33e59" />
+
+<img width="486" height="415" alt="image" src="https://github.com/user-attachments/assets/98f85f7b-368f-4571-b3dc-41989472b584" />
+
 
 Mobile Vit
 
