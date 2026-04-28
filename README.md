@@ -326,11 +326,6 @@ Mobile Vit
 <img width="544" height="427" alt="image" src="https://github.com/user-attachments/assets/79d97a09-169a-4082-a84f-697e30456a16" />
 
 
-<img width="809" height="229" alt="image" src="https://github.com/user-attachments/assets/826cdca8-2a4d-4ed2-ab01-f87f77e3f830" />
-
-<img width="979" height="694" alt="image" src="https://github.com/user-attachments/assets/68ee439a-c9e1-461a-96fd-8a80083e8f8a" />
-
-
 ConViT_Base
 
 <img width="587" height="230" alt="image" src="https://github.com/user-attachments/assets/f6c07c5c-c158-4e77-a5b6-301317e51dbb" />
