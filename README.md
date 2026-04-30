@@ -446,12 +446,131 @@ Architecture of proposed model
 
 
 
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+<img width="425" height="593" alt="image" src="https://github.com/user-attachments/assets/fd90e21b-e8f1-485f-978e-abbb5c5629e4" />
+
+
+<img width="436" height="535" alt="image" src="https://github.com/user-attachments/assets/6c87db51-4782-4b85-98b1-7706fa42bd73" />
 
 
 
+<img width="548" height="210" alt="image" src="https://github.com/user-attachments/assets/805a78b5-9a32-4691-bdf2-42f15f074f67" />
 
 
+<img width="281" height="683" alt="image" src="https://github.com/user-attachments/assets/70d597a8-166b-4ca3-997a-0c8cc028d2f7" />
 
+
+EffNet
+Accuracy: 0.9414
+Precision: 0.9426
+Recall: 0.9414
+F1: 0.9414
+Balanced_Accuracy: 0.9414
+Specificity: 0.9805
+AUC: 0.9885
+Kappa: 0.9218
+
+Inception
+Accuracy: 0.9086
+Precision: 0.9083
+Recall: 0.9086
+F1: 0.9084
+Balanced_Accuracy: 0.9086
+Specificity: 0.9695
+AUC: 0.9856
+Kappa: 0.8782
+
+Ensemble_NoBoost
+Accuracy: 0.9420
+Precision: 0.9433
+Recall: 0.9420
+F1: 0.9420
+Balanced_Accuracy: 0.9420
+Specificity: 0.9807
+AUC: 0.9928
+Kappa: 0.9226
+
+MSW_NoTTA
+Accuracy: 0.9420
+Precision: 0.9433
+Recall: 0.9420
+F1: 0.9420
+Balanced_Accuracy: 0.9420
+Specificity: 0.9807
+AUC: 0.9925
+Kappa: 0.9226
+
+MSW_TTA
+Accuracy: 0.9463
+Precision: 0.9481
+Recall: 0.9463
+F1: 0.9464
+Balanced_Accuracy: 0.9463
+Specificity: 0.9821
+AUC: 0.9905
+Kappa: 0.9284
+
+---------------------------------------------------------------------------------------------------------------------------
+
+EffNet
+Accuracy: 0.9414
+Precision: 0.9426
+Recall: 0.9414
+F1: 0.9414
+Balanced_Accuracy: 0.9414
+Specificity: 0.9805
+AUC: 0.9885
+Kappa: 0.9218
+
+Inception
+Accuracy: 0.9086
+Precision: 0.9083
+Recall: 0.9086
+F1: 0.9084
+Balanced_Accuracy: 0.9086
+Specificity: 0.9695
+AUC: 0.9856
+Kappa: 0.8782
+
+Ensemble_NoBoost
+Accuracy: 0.9420
+Precision: 0.9433
+Recall: 0.9420
+F1: 0.9420
+Balanced_Accuracy: 0.9420
+Specificity: 0.9807
+AUC: 0.9928
+Kappa: 0.9226
+
+MSW_NoTTA
+Accuracy: 0.9420
+Precision: 0.9433
+Recall: 0.9420
+F1: 0.9420
+Balanced_Accuracy: 0.9420
+Specificity: 0.9807
+AUC: 0.9925
+Kappa: 0.9226
+
+MSW_TTA
+Accuracy: 0.9463
+Precision: 0.9481
+Recall: 0.9463
+F1: 0.9464
+Balanced_Accuracy: 0.9463
+Specificity: 0.9821
+AUC: 0.9905
+Kappa: 0.9284
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+<img width="516" height="124" alt="image" src="https://github.com/user-attachments/assets/b9b0a7e6-9ace-49b3-b185-2b5a6c15bdcc" />
+
+<img width="583" height="202" alt="image" src="https://github.com/user-attachments/assets/909ddbe7-096b-4ae9-a26b-c099a7b595fd" />
 
 
 
