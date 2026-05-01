@@ -139,6 +139,10 @@ Final_Data/
         ├── Normal/
         ├── Pneumonia-Bacterial/
         └── Pneumonia-Viral/
+        
+
+Training without CLAHE (Balanced weights)
+------------------------------------------
 
 CNN
 ********
@@ -571,6 +575,32 @@ Kappa: 0.9284
 <img width="516" height="124" alt="image" src="https://github.com/user-attachments/assets/b9b0a7e6-9ace-49b3-b185-2b5a6c15bdcc" />
 
 <img width="583" height="202" alt="image" src="https://github.com/user-attachments/assets/909ddbe7-096b-4ae9-a26b-c099a7b595fd" />
+
+
+
+Training with CLAHE dataset
+-----------------------------
+
+EfficientNetB4(with classweights):-
+
+<img width="786" height="601" alt="image" src="https://github.com/user-attachments/assets/f355e05f-7193-4da9-8080-5e79e8ac5f5e" />
+
+<img width="398" height="152" alt="image" src="https://github.com/user-attachments/assets/194c8a00-97fe-4d83-b56b-0924a45264da" />
+
+<img width="627" height="458" alt="image" src="https://github.com/user-attachments/assets/d85b3f67-15f7-41f2-9276-2e346410e29e" />
+
+<img width="810" height="274" alt="image" src="https://github.com/user-attachments/assets/cf9c9cd8-ddc6-4095-ab90-8d9fca30e828" />
+
+
+
+
+
+
+
+
+
+
+
 
 
 
