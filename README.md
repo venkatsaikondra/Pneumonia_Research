@@ -594,6 +594,48 @@ EfficientNetB4(with classweights):-
 
 
 
+EfficientNetB4(balanced class weights):-
+
+<img width="690" height="592" alt="image" src="https://github.com/user-attachments/assets/72215d66-b761-4e5d-9600-c7638c726fc5" />
+
+
+<img width="561" height="227" alt="image" src="https://github.com/user-attachments/assets/c0409802-8022-4889-abf4-e12649a79f61" />
+
+
+
+<img width="713" height="626" alt="image" src="https://github.com/user-attachments/assets/2e3e27a8-7580-4926-95df-f89b692c96bd" />
+
+
+<img width="911" height="337" alt="image" src="https://github.com/user-attachments/assets/962f8225-0559-4ffa-ac16-1d6973634c29" />
+
+<img width="817" height="249" alt="image" src="https://github.com/user-attachments/assets/a3549c06-9e3b-431e-8834-fe3d6f1f4f27" />
+
+
+
+InceptionV3(balanced class weights):-
+
+
+<img width="419" height="141" alt="image" src="https://github.com/user-attachments/assets/635a94bf-a7a8-4c04-a9d0-9c0f42e7cc7b" />
+
+<img width="370" height="199" alt="image" src="https://github.com/user-attachments/assets/8641be0b-267a-4f60-b557-c72b88decd17" />
+
+
+
+<img width="620" height="219" alt="image" src="https://github.com/user-attachments/assets/9b9563f0-eb1c-4841-99e4-455ae2872174" />
+
+
+
+<img width="603" height="453" alt="image" src="https://github.com/user-attachments/assets/6a682746-0c84-4fec-a582-945c653018a9" />
+
+
+<img width="591" height="449" alt="image" src="https://github.com/user-attachments/assets/0e39da54-6454-4089-912c-e51642d44a7a" />
+
+
+
+
+MSW-EnsNet(with clahe)
+----------------------
+
 
 
 
