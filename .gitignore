@@ -1,1 +1,10 @@
-.DS_Store
+# Ignore datasets
+COVID_19_Radiography_Database/
+kermany/
+
+# (Optional but recommended)
+*.ipynb_checkpoints
+__pycache__/
+*.pth
+*.h5
+*.pt
