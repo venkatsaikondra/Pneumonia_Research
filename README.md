@@ -459,8 +459,18 @@ Training with CLAHE dataset
 
 EfficientNetB4:-
 ------------------
+<img width="665" height="170" alt="image" src="https://github.com/user-attachments/assets/22c73a34-1e77-48ca-a534-4c995b27d0ac" />
+
+<img width="538" height="215" alt="image" src="https://github.com/user-attachments/assets/cc92e5be-bd53-4798-9301-fed5e01202d8" />
+
+<img width="696" height="560" alt="image" src="https://github.com/user-attachments/assets/334abf06-cd11-4b2a-9a4b-fdcdc4b45380" />
 
 
+<img width="583" height="440" alt="image" src="https://github.com/user-attachments/assets/197ff2a3-0d3a-4e82-940b-f706cf099169" />
+
+<img width="419" height="405" alt="image" src="https://github.com/user-attachments/assets/93929130-e381-4c81-a8e6-2e4b5d3acf88" />
+
+<img width="478" height="388" alt="image" src="https://github.com/user-attachments/assets/3b489832-4d63-4071-9478-c557c26ad83f" />
 
 
 InceptionV3:-
