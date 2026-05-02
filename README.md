@@ -447,7 +447,7 @@ Architecture of proposed model
 
 
 
-<img width="1007" height="567" alt="image" src="https://github.com/user-attachments/assets/6b98c811-0325-4dfc-aa3a-4f53608cd3e3" />
+<img width="1019" height="577" alt="image" src="https://github.com/user-attachments/assets/bbab6382-aaa4-4d94-81ab-0dd93a09fb5e" />
 
 
 
@@ -456,61 +456,43 @@ Architecture of proposed model
 Training with CLAHE dataset
 -----------------------------
 
-EfficientNetB4(with classweights):-
 
-<img width="786" height="601" alt="image" src="https://github.com/user-attachments/assets/f355e05f-7193-4da9-8080-5e79e8ac5f5e" />
-
-<img width="398" height="152" alt="image" src="https://github.com/user-attachments/assets/194c8a00-97fe-4d83-b56b-0924a45264da" />
-
-<img width="627" height="458" alt="image" src="https://github.com/user-attachments/assets/d85b3f67-15f7-41f2-9276-2e346410e29e" />
-
-<img width="810" height="274" alt="image" src="https://github.com/user-attachments/assets/cf9c9cd8-ddc6-4095-ab90-8d9fca30e828" />
+EfficientNetB4:-
+------------------
 
 
 
 
-EfficientNetB4(balanced class weights):-
+InceptionV3:-
+---------------
 
-<img width="690" height="592" alt="image" src="https://github.com/user-attachments/assets/72215d66-b761-4e5d-9600-c7638c726fc5" />
+<img width="591" height="213" alt="image" src="https://github.com/user-attachments/assets/6b4836f8-d861-4bc8-b3bb-1a8a0f780b5c" />
 
+<img width="524" height="219" alt="image" src="https://github.com/user-attachments/assets/f2eeda2e-29bc-4f80-8a90-2bc9202dbdc3" />
 
-<img width="561" height="227" alt="image" src="https://github.com/user-attachments/assets/c0409802-8022-4889-abf4-e12649a79f61" />
+<img width="733" height="690" alt="image" src="https://github.com/user-attachments/assets/db934240-b453-4248-93ac-c94d4f3fadf6" />
 
+<img width="672" height="489" alt="image" src="https://github.com/user-attachments/assets/f56da8ae-bae4-4cc1-b45e-8c0b71ea2fb1" />
 
+<img width="427" height="448" alt="image" src="https://github.com/user-attachments/assets/515f7d30-005b-4ecc-8053-eb6081507002" />
 
-<img width="713" height="626" alt="image" src="https://github.com/user-attachments/assets/2e3e27a8-7580-4926-95df-f89b692c96bd" />
-
-
-<img width="911" height="337" alt="image" src="https://github.com/user-attachments/assets/962f8225-0559-4ffa-ac16-1d6973634c29" />
-
-<img width="817" height="249" alt="image" src="https://github.com/user-attachments/assets/a3549c06-9e3b-431e-8834-fe3d6f1f4f27" />
-
+<img width="446" height="470" alt="image" src="https://github.com/user-attachments/assets/fcfd1841-11bd-4a2c-87fa-58bb27a4b382" />
 
 
-InceptionV3(balanced class weights):-
-
-
-<img width="419" height="141" alt="image" src="https://github.com/user-attachments/assets/635a94bf-a7a8-4c04-a9d0-9c0f42e7cc7b" />
-
-<img width="370" height="199" alt="image" src="https://github.com/user-attachments/assets/8641be0b-267a-4f60-b557-c72b88decd17" />
+MSW-EnsNet:-
+------------
 
 
 
-<img width="620" height="219" alt="image" src="https://github.com/user-attachments/assets/9b9563f0-eb1c-4841-99e4-455ae2872174" />
 
 
 
-<img width="603" height="453" alt="image" src="https://github.com/user-attachments/assets/6a682746-0c84-4fec-a582-945c653018a9" />
 
 
-<img width="591" height="449" alt="image" src="https://github.com/user-attachments/assets/0e39da54-6454-4089-912c-e51642d44a7a" />
 
 
-<img width="738" height="609" alt="image" src="https://github.com/user-attachments/assets/65288f05-228b-49eb-a452-30d7198de099" />
 
 
-MSW-EnsNet
-----------
 
 
 
