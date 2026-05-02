@@ -445,9 +445,7 @@ boost = torch.tensor([1.0, 1.0, 1.1, 1.1], device=device)
 Architecture of proposed model
 -----------------------------------
 
-
-
-<img width="1019" height="577" alt="image" src="https://github.com/user-attachments/assets/bbab6382-aaa4-4d94-81ab-0dd93a09fb5e" />
+<img width="1013" height="571" alt="image" src="https://github.com/user-attachments/assets/cb747cb1-ff15-4987-8b8c-0ad316e4a057" />
 
 
 
