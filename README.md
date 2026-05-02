@@ -492,6 +492,32 @@ InceptionV3:-
 MSW-EnsNet:-
 ------------
 
+<img width="475" height="655" alt="image" src="https://github.com/user-attachments/assets/126a9ff9-91bf-403d-8f26-e03d581404ad" />
+
+<img width="480" height="571" alt="image" src="https://github.com/user-attachments/assets/dc48edd0-040b-4f22-a18e-2e9bf1fd2d9f" />
+
+<img width="399" height="557" alt="image" src="https://github.com/user-attachments/assets/fa616266-a865-4748-bc17-9062e30bb96c" />
+
+<img width="468" height="77" alt="image" src="https://github.com/user-attachments/assets/8726ef5c-309b-4819-a8a1-2d01f88fdedd" />
+
+
+<img width="703" height="180" alt="image" src="https://github.com/user-attachments/assets/cc0024c9-c18b-4884-b1fc-24cabcb16ee8" />
+
+
+
+<img width="540" height="578" alt="image" src="https://github.com/user-attachments/assets/65ee205b-68ac-4d5a-857a-3d92bf3fc204" />
+
+
+<img width="823" height="594" alt="image" src="https://github.com/user-attachments/assets/f71d78d2-cb9f-4e3a-81ee-d251c8bedd65" />
+
+
+<img width="434" height="434" alt="image" src="https://github.com/user-attachments/assets/ccba996e-083a-4386-babb-3f0769276769" />
+
+<img width="790" height="563" alt="image" src="https://github.com/user-attachments/assets/325079e3-d2d0-4965-8cb4-b88a85bce5e0" />
+
+
+
+<img width="551" height="564" alt="image" src="https://github.com/user-attachments/assets/2b783ce6-6bda-4008-b91d-7d52faa7b5df" />
 
 
 
@@ -499,30 +525,29 @@ MSW-EnsNet:-
 
 
 
+Covid19_Radiograph_DB
+-----------------------
+
+
+https://www.kaggle.com/datasets/ahmadalmahsiri/covid19-radiography-database
+
+
+
+<img width="959" height="425" alt="image" src="https://github.com/user-attachments/assets/08394891-ead3-4ab5-9f5c-e885aa039b2c" />
 
 
 
 
+Kermany
+----------
+
+
+https://www.kaggle.com/datasets/muhammadrehan00/chest-xray-dataset
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="929" height="426" alt="image" src="https://github.com/user-attachments/assets/96e200c5-2475-40e2-a716-21e47722323b" />
 
 
 
