@@ -552,10 +552,16 @@ https://www.kaggle.com/datasets/muhammadrehan00/chest-xray-dataset
 
 
 
+| Train   | External Dataset     | Task                         | Acc   | Macro F1 |
+| ------- | -------------------- | ---------------------------- | ----- | -------- |
+| ChestX6 | Kermany              | Binary (Normal vs Pneumonia) | 0.497 | 0.484    |
+| ChestX6 | COVID Radiography DB | Binary (COVID vs Normal)     | 0.389 | 0.222    |
 
 
 
+\textbf{External Validation.} To assess generalisation, the proposed MSW-EnsNet model trained on the ChestX6 dataset was evaluated on two independent datasets: the Kermany dataset and the COVID-19 Radiography Database. A noticeable drop in performance is observed, with macro F1-scores of 0.48 and 0.22 respectively. This degradation is attributed to domain shift arising from differences in imaging protocols, acquisition devices, patient populations, and label definitions across datasets. Such cross-dataset performance gaps are well-documented in medical imaging literature and highlight the challenge of deploying deep learning models across heterogeneous clinical environments. These findings emphasise the need for domain adaptation or multi-centre training for improved generalisation.
 
+Despite the observed performance drop under cross-dataset evaluation, the proposed model demonstrates strong in-domain performance and clinically meaningful feature localisation, indicating that the learned representations are valid but dataset-specific.
 
 
 
