@@ -519,7 +519,28 @@ MSW-EnsNet:-
 
 
 
+TransUNet
 
+<img width="520" height="194" alt="image" src="https://github.com/user-attachments/assets/c278862e-94f9-49f6-87d7-8199d4f72008" />
+
+<img width="629" height="612" alt="image" src="https://github.com/user-attachments/assets/204da2c1-cff0-4a47-8918-9154b02c9bff" />
+
+
+<img width="632" height="242" alt="image" src="https://github.com/user-attachments/assets/63b23aee-1351-4ab3-9685-8a0473cf13ed" />
+
+<img width="614" height="700" alt="image" src="https://github.com/user-attachments/assets/73f502a1-83b7-4c21-9663-6cc49d3c42db" />
+
+
+
+ResViT
+
+<img width="313" height="150" alt="image" src="https://github.com/user-attachments/assets/56e9c5cf-05dd-4977-80ea-34736a35efe5" />
+
+<img width="579" height="463" alt="image" src="https://github.com/user-attachments/assets/295f4731-6fda-4de4-addb-5232b9732e59" />
+
+<img width="462" height="428" alt="image" src="https://github.com/user-attachments/assets/1e3a75a7-64c2-44dd-82b8-bbca2b917c2b" />
+
+<img width="252" height="104" alt="image" src="https://github.com/user-attachments/assets/2f59f8b5-de20-4620-b896-70868fe9685a" />
 
 
 Covid19_Radiograph_DB
