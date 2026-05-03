@@ -450,25 +450,16 @@ InceptionV3:-
 
 MSW-EnsNet:-
 ------------
+<img width="466" height="653" alt="image" src="https://github.com/user-attachments/assets/8144d563-f07b-4c50-b8ce-3907ba72844e" />
 
-<img width="475" height="655" alt="image" src="https://github.com/user-attachments/assets/126a9ff9-91bf-403d-8f26-e03d581404ad" />
+<img width="472" height="569" alt="image" src="https://github.com/user-attachments/assets/33d59724-e649-4fd1-9b5c-99bdfaeea558" />
 
-<img width="480" height="571" alt="image" src="https://github.com/user-attachments/assets/dc48edd0-040b-4f22-a18e-2e9bf1fd2d9f" />
-
-<img width="399" height="557" alt="image" src="https://github.com/user-attachments/assets/fa616266-a865-4748-bc17-9062e30bb96c" />
-
-after(weights+boost+tta)
-
-<img width="656" height="188" alt="image" src="https://github.com/user-attachments/assets/a00d208f-f317-4090-a398-63ad4fc36ddb" />
-
-<img width="638" height="205" alt="image" src="https://github.com/user-attachments/assets/2912f89c-1a27-4d6b-a74e-6eaa6e928c07" />
-
-<img width="276" height="92" alt="image" src="https://github.com/user-attachments/assets/66248d19-53d9-48cd-a2df-af7b3653816f" />
-
-<img width="656" height="488" alt="image" src="https://github.com/user-attachments/assets/bdc4ecf0-78f4-420b-9284-1bd51548218f" />
+<img width="361" height="546" alt="image" src="https://github.com/user-attachments/assets/5cf9005b-c9b7-4bb9-8fe8-b0c157375fe4" />
 
 
+<img width="522" height="564" alt="image" src="https://github.com/user-attachments/assets/81d92f2a-7270-471b-8eaa-702a00eee493" />
 
+<img width="783" height="563" alt="image" src="https://github.com/user-attachments/assets/c1c499fc-7b2f-4d1c-8a6e-72507371362e" />
 
 
 
@@ -512,45 +503,15 @@ Swim Transformer
 <img width="329" height="175" alt="image" src="https://github.com/user-attachments/assets/feaa4b0e-c2a7-4ff7-a652-a86f9182d1a2" />
 
 
-Covid19_Radiograph_DB
------------------------
+Ensemble(swim+eff+incep)
 
 
-https://www.kaggle.com/datasets/ahmadalmahsiri/covid19-radiography-database
+<img width="617" height="248" alt="image" src="https://github.com/user-attachments/assets/af87b19b-f4d8-4315-8035-abb90733d133" />
 
+<img width="735" height="504" alt="image" src="https://github.com/user-attachments/assets/83c1a49a-c316-4a99-8c8b-e6f1959cf211" />
 
+<img width="412" height="268" alt="image" src="https://github.com/user-attachments/assets/fa081c22-e3dd-4134-9223-976dd7c619d1" />
 
-<img width="959" height="425" alt="image" src="https://github.com/user-attachments/assets/08394891-ead3-4ab5-9f5c-e885aa039b2c" />
-
-
-
-
-Kermany
-----------
-
-
-https://www.kaggle.com/datasets/muhammadrehan00/chest-xray-dataset
-
-
-
-
-<img width="929" height="426" alt="image" src="https://github.com/user-attachments/assets/96e200c5-2475-40e2-a716-21e47722323b" />
-
-
-
-
-
-
-| Train   | External Dataset     | Task                         | Acc   | Macro F1 |
-| ------- | -------------------- | ---------------------------- | ----- | -------- |
-| ChestX6 | Kermany              | Binary (Normal vs Pneumonia) | 0.497 | 0.484    |
-| ChestX6 | COVID Radiography DB | Binary (COVID vs Normal)     | 0.389 | 0.222    |
-
-
-
-\textbf{External Validation.} To assess generalisation, the proposed MSW-EnsNet model trained on the ChestX6 dataset was evaluated on two independent datasets: the Kermany dataset and the COVID-19 Radiography Database. A noticeable drop in performance is observed, with macro F1-scores of 0.48 and 0.22 respectively. This degradation is attributed to domain shift arising from differences in imaging protocols, acquisition devices, patient populations, and label definitions across datasets. Such cross-dataset performance gaps are well-documented in medical imaging literature and highlight the challenge of deploying deep learning models across heterogeneous clinical environments. These findings emphasise the need for domain adaptation or multi-centre training for improved generalisation.
-
-Despite the observed performance drop under cross-dataset evaluation, the proposed model demonstrates strong in-domain performance and clinically meaningful feature localisation, indicating that the learned representations are valid but dataset-specific.
 
 
 
