@@ -473,18 +473,17 @@ EfficientNetB4:-
 
 InceptionV3:-
 ---------------
+<img width="563" height="279" alt="image" src="https://github.com/user-attachments/assets/b369db0a-f45e-48b3-b462-ab29b9cc0e08" />
 
-<img width="591" height="213" alt="image" src="https://github.com/user-attachments/assets/6b4836f8-d861-4bc8-b3bb-1a8a0f780b5c" />
+<img width="292" height="315" alt="image" src="https://github.com/user-attachments/assets/423f6c25-4e43-4a94-bc9d-d22716b8fc5e" />
 
-<img width="524" height="219" alt="image" src="https://github.com/user-attachments/assets/f2eeda2e-29bc-4f80-8a90-2bc9202dbdc3" />
+<img width="743" height="686" alt="image" src="https://github.com/user-attachments/assets/6f5867c3-04ed-4459-997f-8537eae1a396" />
 
-<img width="733" height="690" alt="image" src="https://github.com/user-attachments/assets/db934240-b453-4248-93ac-c94d4f3fadf6" />
+<img width="645" height="483" alt="image" src="https://github.com/user-attachments/assets/f92199b6-d697-4dc9-81d1-43265fd8c8e4" />
 
-<img width="672" height="489" alt="image" src="https://github.com/user-attachments/assets/f56da8ae-bae4-4cc1-b45e-8c0b71ea2fb1" />
+<img width="456" height="428" alt="image" src="https://github.com/user-attachments/assets/8612a9db-c137-4ab3-8af7-a099387c67e3" />
 
-<img width="427" height="448" alt="image" src="https://github.com/user-attachments/assets/515f7d30-005b-4ecc-8053-eb6081507002" />
-
-<img width="446" height="470" alt="image" src="https://github.com/user-attachments/assets/fcfd1841-11bd-4a2c-87fa-58bb27a4b382" />
+<img width="460" height="434" alt="image" src="https://github.com/user-attachments/assets/c4234990-acad-4e9b-9ce2-4b2c0068c31e" />
 
 
 MSW-EnsNet:-
