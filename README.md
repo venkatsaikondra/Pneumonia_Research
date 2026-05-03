@@ -410,44 +410,6 @@ Analysis
 
 <img width="845" height="652" alt="image" src="https://github.com/user-attachments/assets/19dbbcae-c6e3-41e0-a977-e1347ed62890" />
 
-Ablation Study 
----------------
-
-Boosting
-
-<img width="892" height="588" alt="image" src="https://github.com/user-attachments/assets/4241fa88-f9d0-4a7f-bfd2-dadcf3de059a" />
-
-
-Weighted_Decision_Fusion 
-------------------------
-
-<img width="911" height="525" alt="image" src="https://github.com/user-attachments/assets/d5d9e38b-5d34-4b46-81d1-9f68eaa21883" />
-
-
-The ablation results indicate that neither EfficientNet-B4 nor InceptionV3 alone achieves optimal performance (F1: 0.9483 and 0.9372, respectively), whereas their weighted fusion significantly improves results, peaking at F1 = 0.9551 for weights (0.7, 0.3). This confirms that integrating global and local feature representations enhances classification robustness.
-
-
-
-w1, w2 = 0.7, 0.3
-boost = torch.tensor([1.0, 1.0, 1.1, 1.1], device=device)
-
-
-<img width="877" height="47" alt="image" src="https://github.com/user-attachments/assets/94bf3cf6-d28f-4378-a699-8eb7d632e2ff" />
-
-
-
-<img width="821" height="622" alt="image" src="https://github.com/user-attachments/assets/faf6bb1c-6e14-4cf6-b995-65dd32e972f0" />
-
-
-
-
-
-Architecture of proposed model
------------------------------------
-
-<img width="1013" height="571" alt="image" src="https://github.com/user-attachments/assets/cb747cb1-ff15-4987-8b8c-0ad316e4a057" />
-
-
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -495,26 +457,17 @@ MSW-EnsNet:-
 
 <img width="399" height="557" alt="image" src="https://github.com/user-attachments/assets/fa616266-a865-4748-bc17-9062e30bb96c" />
 
-<img width="468" height="77" alt="image" src="https://github.com/user-attachments/assets/8726ef5c-309b-4819-a8a1-2d01f88fdedd" />
+after(weights+boost+tta)
+
+<img width="656" height="188" alt="image" src="https://github.com/user-attachments/assets/a00d208f-f317-4090-a398-63ad4fc36ddb" />
+
+<img width="638" height="205" alt="image" src="https://github.com/user-attachments/assets/2912f89c-1a27-4d6b-a74e-6eaa6e928c07" />
+
+<img width="276" height="92" alt="image" src="https://github.com/user-attachments/assets/66248d19-53d9-48cd-a2df-af7b3653816f" />
+
+<img width="656" height="488" alt="image" src="https://github.com/user-attachments/assets/bdc4ecf0-78f4-420b-9284-1bd51548218f" />
 
 
-<img width="703" height="180" alt="image" src="https://github.com/user-attachments/assets/cc0024c9-c18b-4884-b1fc-24cabcb16ee8" />
-
-
-
-<img width="540" height="578" alt="image" src="https://github.com/user-attachments/assets/65ee205b-68ac-4d5a-857a-3d92bf3fc204" />
-
-
-<img width="823" height="594" alt="image" src="https://github.com/user-attachments/assets/f71d78d2-cb9f-4e3a-81ee-d251c8bedd65" />
-
-
-<img width="434" height="434" alt="image" src="https://github.com/user-attachments/assets/ccba996e-083a-4386-babb-3f0769276769" />
-
-<img width="790" height="563" alt="image" src="https://github.com/user-attachments/assets/325079e3-d2d0-4965-8cb4-b88a85bce5e0" />
-
-
-
-<img width="551" height="564" alt="image" src="https://github.com/user-attachments/assets/2b783ce6-6bda-4008-b91d-7d52faa7b5df" />
 
 
 
@@ -541,6 +494,8 @@ ResViT
 <img width="462" height="428" alt="image" src="https://github.com/user-attachments/assets/1e3a75a7-64c2-44dd-82b8-bbca2b917c2b" />
 
 <img width="252" height="104" alt="image" src="https://github.com/user-attachments/assets/2f59f8b5-de20-4620-b896-70868fe9685a" />
+
+
 
 
 Swim Transformer
