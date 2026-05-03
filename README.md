@@ -543,6 +543,20 @@ ResViT
 <img width="252" height="104" alt="image" src="https://github.com/user-attachments/assets/2f59f8b5-de20-4620-b896-70868fe9685a" />
 
 
+Swim Transformer
+
+
+<img width="519" height="193" alt="image" src="https://github.com/user-attachments/assets/a0ecc640-e534-4ade-8d44-34db77f3183b" />
+
+<img width="646" height="620" alt="image" src="https://github.com/user-attachments/assets/4cc1f166-4829-414d-a6e7-a24f935ed51a" />
+
+<img width="559" height="424" alt="image" src="https://github.com/user-attachments/assets/fc08a721-5010-4f6c-a7ea-38e9287bb5ec" />
+
+<img width="476" height="414" alt="image" src="https://github.com/user-attachments/assets/e4e69112-16ac-4970-91df-9b4a309efd03" />
+
+<img width="329" height="175" alt="image" src="https://github.com/user-attachments/assets/feaa4b0e-c2a7-4ff7-a652-a86f9182d1a2" />
+
+
 Covid19_Radiograph_DB
 -----------------------
 
