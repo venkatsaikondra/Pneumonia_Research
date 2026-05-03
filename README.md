@@ -570,41 +570,40 @@ Computational Complexity
 
 InceptionV3
 
-{'Params(M)': 27.16, 'FLOPs(G)': 5.75, 'Size(MB)': 103.97, 'Inf Time(ms)': 11.32, 'GPU Mem(GB)': 0.22}
+{'Params(M)': 23.83, 'FLOPs(G)': 2.86, 'Size(MB)': 91.27, 'Inf Time(ms)': 11.03, 'FPS': 90.7, 'GPU Mem(GB)': 0.11}
 
 
 
 
 EfficientNetB4
 
+{'Params(M)': 19.34, 'FLOPs(G)': 1.58, 'Size(MB)': 74.65, 'Inf Time(ms)': 15.24, 'GPU Mem(GB)': 0.59}
 
-{'Params(M)': 19.34, 'FLOPs(G)': 1.58, 'Size(MB)': 74.65, 'Inf Time(ms)': 15.3, 'GPU Mem(GB)': 0.3}
 
 
 
 Swim Transformer
 
 
-{'Params(M)': 28.29, 'FLOPs(G)': 2.98, 'Size(MB)': 108.22, 'Inf Time(ms)': 11.99, 'GPU Mem(GB)': 0.29}
-
+{'Params(M)': 28.29, 'FLOPs(G)': 2.98, 'Size(MB)': 108.22, 'Inf Time(ms)': 12.58, 'FPS': 79.48, 'GPU Mem(GB)': 0.22}
 
 
 TransUNet
 
 
-{'Params(M)': 60.86, 'FLOPs(G)': 8.9, 'Size(MB)': 232.51, 'Inf Time(ms)': 11.57, 'GPU Mem(GB)': 0.59}
+{'Params(M)': 60.86, 'FLOPs(G)': 8.9, 'Size(MB)': 232.51, 'Inf Time(ms)': 11.12, 'GPU Mem(GB)': 0.52}
 
 
 
 MSW-EnsNet
 
 
-{'Params(M)': 41.3, 'FLOPs(G)': 4.43, 'Size(MB)': 158.79, 'Inf Time(ms)': 26.05, 'GPU Mem(GB)': 0.5}
+{'Params(M)': 41.3, 'FLOPs(G)': 7.33, 'Size(MB)': 158.8, 'Inf Time(ms)': 27.41, 'GPU Mem(GB)': 0.69}
 
 
 ResViT
 
-{'Params(M)': 110.75, 'FLOPs(G)': 15.42, 'Size(MB)': 422.87, 'Inf Time(ms)': 20.85, 'GPU Mem(GB)': 0.69}
+{'Params(M)': 110.75, 'FLOPs(G)': 15.42, 'Size(MB)': 422.87, 'Inf Time(ms)': 20.13, 'GPU Mem(GB)': 0.54}
 
 
 
