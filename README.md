@@ -450,16 +450,31 @@ InceptionV3:-
 
 MSW-EnsNet:-
 ------------
-<img width="466" height="653" alt="image" src="https://github.com/user-attachments/assets/8144d563-f07b-4c50-b8ce-3907ba72844e" />
+<img width="366" height="699" alt="image" src="https://github.com/user-attachments/assets/218b27d2-a501-4d3e-9ce9-3e3dba97b9c8" />
 
-<img width="472" height="569" alt="image" src="https://github.com/user-attachments/assets/33d59724-e649-4fd1-9b5c-99bdfaeea558" />
-
-<img width="361" height="546" alt="image" src="https://github.com/user-attachments/assets/5cf9005b-c9b7-4bb9-8fe8-b0c157375fe4" />
+<img width="373" height="696" alt="image" src="https://github.com/user-attachments/assets/ebbcc7a0-18e3-4b49-a8e4-328838c9333f" />
 
 
-<img width="522" height="564" alt="image" src="https://github.com/user-attachments/assets/81d92f2a-7270-471b-8eaa-702a00eee493" />
+<img width="582" height="294" alt="image" src="https://github.com/user-attachments/assets/47c7b4b5-6573-4827-b2a4-b5f54e6e170c" />
 
-<img width="783" height="563" alt="image" src="https://github.com/user-attachments/assets/c1c499fc-7b2f-4d1c-8a6e-72507371362e" />
+<img width="593" height="484" alt="image" src="https://github.com/user-attachments/assets/7b69a539-1c96-4228-a92e-1d66a42adebe" />
+
+<img width="636" height="595" alt="image" src="https://github.com/user-attachments/assets/0698b363-a4e5-431a-b849-c75aeee36988" />
+
+<img width="625" height="683" alt="image" src="https://github.com/user-attachments/assets/b6fad742-1af4-4abf-ad6b-6649c9683f05" />
+
+<img width="404" height="326" alt="image" src="https://github.com/user-attachments/assets/b0b2e132-017e-490a-912b-80864cf790c0" />
+
+
+<img width="516" height="322" alt="image" src="https://github.com/user-attachments/assets/143f255c-df03-447d-9371-01f8c6661a7f" />
+
+<img width="541" height="287" alt="image" src="https://github.com/user-attachments/assets/a33e0599-c775-4237-8a35-1691c5d69548" />
+
+<img width="562" height="383" alt="image" src="https://github.com/user-attachments/assets/c5ad33f8-f1b5-4ec4-acdd-ce2b4352de49" />
+
+<img width="318" height="281" alt="image" src="https://github.com/user-attachments/assets/6fb8eacd-f8c5-4bac-8002-74e529a0814e" />
+
+<img width="537" height="448" alt="image" src="https://github.com/user-attachments/assets/7a4bc969-dfab-459f-96f4-ad665e18d8b0" />
 
 
 
@@ -554,6 +569,30 @@ MSW-EnsNet
 ResViT
 
 {'Params(M)': 110.75, 'FLOPs(G)': 15.42, 'Size(MB)': 422.87, 'Inf Time(ms)': 20.13, 'GPU Mem(GB)': 0.54}
+
+
+External Validation 
+--------------------
+
+<img width="388" height="781" alt="image" src="https://github.com/user-attachments/assets/8e557a5f-1dda-4bd3-862d-21a70d6649b2" />
+
+
+
+
+<img width="315" height="82" alt="image" src="https://github.com/user-attachments/assets/1f2ae6da-8542-40e7-9691-f0905c62281f" />
+
+
+
+
+
+
+
+<img width="391" height="772" alt="image" src="https://github.com/user-attachments/assets/ab45b99f-23ce-4e86-b0b9-6ac3df0d7bf4" />
+
+
+
+
+
 
 
 
