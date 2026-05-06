@@ -600,6 +600,7 @@ without label_smoothing on proposed model
 
 
 
+<img width="768" height="311" alt="image" src="https://github.com/user-attachments/assets/207b9b90-a6a4-4b95-8fe6-8a61138e1eab" />
 
 
 
