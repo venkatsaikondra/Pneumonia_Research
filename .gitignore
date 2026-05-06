@@ -1,6 +1,6 @@
 # Ignore datasets
 COVID_19_Radiography_Database/
-kermany/
+kermany_train_test_split/
 
 # (Optional but recommended)
 *.ipynb_checkpoints
