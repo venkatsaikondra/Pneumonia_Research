@@ -574,12 +574,29 @@ ResViT
 External Validation 
 --------------------
 
-<img width="388" height="781" alt="image" src="https://github.com/user-attachments/assets/8e557a5f-1dda-4bd3-862d-21a70d6649b2" />
+kermany dataset
+
+<img width="851" height="78" alt="image" src="https://github.com/user-attachments/assets/f7c87c0b-e38f-4a48-92e0-c4ae49bc3671" />
+
+<img width="819" height="99" alt="image" src="https://github.com/user-attachments/assets/3bcf3b51-7bc8-4928-a18d-25314f1aa333" />
+
+covid19 dataset
+
+<img width="831" height="136" alt="image" src="https://github.com/user-attachments/assets/6c4093ce-bee3-4de2-87bf-ced88164d7c9" />
+
+
+
+Without Clahe on proposed model
+-----------------------------------
+
+
+<img width="844" height="331" alt="image" src="https://github.com/user-attachments/assets/e0e02814-1a43-40c4-9869-21e131295367" />
 
 
 
 
-<img width="315" height="82" alt="image" src="https://github.com/user-attachments/assets/1f2ae6da-8542-40e7-9691-f0905c62281f" />
+without label_smoothing on proposed model
+-----------------------------------------
 
 
 
@@ -587,7 +604,12 @@ External Validation
 
 
 
-<img width="391" height="772" alt="image" src="https://github.com/user-attachments/assets/ab45b99f-23ce-4e86-b0b9-6ac3df0d7bf4" />
+
+
+
+
+
+
 
 
 
