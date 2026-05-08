@@ -387,14 +387,6 @@ MSW-EnsNet
 <img width="576" height="230" alt="image" src="https://github.com/user-attachments/assets/2a05c07d-505a-4c5f-af7b-152c0d8d75e0" />
 
 
-<img width="392" height="420" alt="image" src="https://github.com/user-attachments/assets/45ba1e38-20aa-4133-a2c7-af6ca7d22d46" />
-
-
-<img width="533" height="455" alt="image" src="https://github.com/user-attachments/assets/90772485-e9d5-4dc7-a11a-479621d053db" />
-
-
-
-
 
 <img width="719" height="611" alt="image" src="https://github.com/user-attachments/assets/f868dd86-f83b-43b2-9eb4-53bcc360902e" />
 
@@ -403,12 +395,6 @@ MSW-EnsNet
 <img width="696" height="551" alt="image" src="https://github.com/user-attachments/assets/f38152f0-1002-4284-bd03-031d001e1425" />
 
 
-
-Analysis
-++++++++
-
-
-<img width="845" height="652" alt="image" src="https://github.com/user-attachments/assets/19dbbcae-c6e3-41e0-a977-e1347ed62890" />
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
@@ -476,7 +462,10 @@ MSW-EnsNet:-
 
 <img width="537" height="448" alt="image" src="https://github.com/user-attachments/assets/7a4bc969-dfab-459f-96f4-ad665e18d8b0" />
 
+<img width="392" height="420" alt="image" src="https://github.com/user-attachments/assets/45ba1e38-20aa-4133-a2c7-af6ca7d22d46" />
 
+
+<img width="533" height="455" alt="image" src="https://github.com/user-attachments/assets/90772485-e9d5-4dc7-a11a-479621d053db" />
 
 TransUNet
 
@@ -606,6 +595,11 @@ without label_smoothing on proposed model
 
 
 
+Architecture
+-------------
+
+
+<img width="1018" height="579" alt="image" src="https://github.com/user-attachments/assets/ff7a53d2-ad7a-43ab-b500-e2d439b848d5" />
 
 
 
