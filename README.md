@@ -598,8 +598,8 @@ without label_smoothing on proposed model
 Architecture
 -------------
 
+<img width="1009" height="571" alt="image" src="https://github.com/user-attachments/assets/c8861497-6c45-49d8-a067-048d2ff47fbd" />
 
-<img width="1018" height="579" alt="image" src="https://github.com/user-attachments/assets/ff7a53d2-ad7a-43ab-b500-e2d439b848d5" />
 
 
 
