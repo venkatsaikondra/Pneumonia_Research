@@ -455,7 +455,10 @@ Require: Input I; pretrained FE, FI; w1=0.7, w2=0.3; wb=[1.0,1.0,1.6,1.6]
 
 <img src="https://github.com/user-attachments/assets/218b27d2-a501-4d3e-9ce9-3e3dba97b9c8" width="366" alt="MSW-EnsNet CLAHE Report 1"/>
 <img src="https://github.com/user-attachments/assets/ebbcc7a0-18e3-4b49-a8e4-328838c9333f" width="373" alt="MSW-EnsNet CLAHE Report 2"/>
-<img src="https://github.com/user-attachments/assets/47c7b4b5-6573-4827-b2a4-b5f54e6e170c" width="582" alt="MSW-EnsNet CLAHE Metrics"/>
+<!-- <img src="https://github.com/user-attachments/assets/47c7b4b5-6573-4827-b2a4-b5f54e6e170c" width="582" alt="MSW-EnsNet CLAHE Metrics"/> -->
+
+<!-- <img src="https://github.com/user-attachments/assets/6fb8eacd-f8c5-4bac-8002-74e529a0814e" width="318" alt="MSW-EnsNet CLAHE Analysis 5"/>/> -->
+
 <img src="https://github.com/user-attachments/assets/7b69a539-1c96-4228-a92e-1d66a42adebe" width="593" alt="MSW-EnsNet CLAHE Training Curves"/>
 <img src="https://github.com/user-attachments/assets/0698b363-a4e5-431a-b849-c75aeee36988" width="636" alt="MSW-EnsNet CLAHE Confusion Matrix"/>
 <img src="https://github.com/user-attachments/assets/b6fad742-1af4-4abf-ad6b-6649c9683f05" width="625" alt="MSW-EnsNet CLAHE ROC"/>
@@ -463,7 +466,7 @@ Require: Input I; pretrained FE, FI; w1=0.7, w2=0.3; wb=[1.0,1.0,1.6,1.6]
 <img src="https://github.com/user-attachments/assets/143f255c-df03-447d-9371-01f8c6661a7f" width="516" alt="MSW-EnsNet CLAHE Analysis 2"/>
 <img src="https://github.com/user-attachments/assets/541f287c-a33e-4d86-9cf2-5e62f9793977" width="541" alt="MSW-EnsNet CLAHE Analysis 3"/>
 <img src="https://github.com/user-attachments/assets/562f383c-c5a5-41ef-99ad-fda2bfb1abc3" width="562" alt="MSW-EnsNet CLAHE Analysis 4"/>
-<img src="https://github.com/user-attachments/assets/6fb8eacd-f8c5-4bac-8002-74e529a0814e" width="318" alt="MSW-EnsNet CLAHE Analysis 5"/>
+
 <img src="https://github.com/user-attachments/assets/7a4bc969-dfab-459f-96f4-ad665e18d8b0" width="537" alt="MSW-EnsNet CLAHE Analysis 6"/>
 <img src="https://github.com/user-attachments/assets/45ba1e38-20aa-4133-a2c7-af6ca7d22d46" width="392" alt="MSW-EnsNet CLAHE Analysis 7"/>
 <img src="https://github.com/user-attachments/assets/90772485-e9d5-4dc7-a11a-479621d053db" width="533" alt="MSW-EnsNet CLAHE Analysis 8"/>
