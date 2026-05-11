@@ -794,6 +794,9 @@ If you use this work, please cite:
 
 readme.txt
 
+ablation with validation sd and final results
+
+<img width="774" height="276" alt="image" src="https://github.com/user-attachments/assets/ff0de305-4599-414d-bb33-0f48341b0d28" />
 
 
 
