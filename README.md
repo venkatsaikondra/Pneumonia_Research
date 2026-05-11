@@ -798,5 +798,28 @@ ablation with validation sd and final results
 
 <img width="774" height="276" alt="image" src="https://github.com/user-attachments/assets/ff0de305-4599-414d-bb33-0f48341b0d28" />
 
+<img width="740" height="325" alt="image" src="https://github.com/user-attachments/assets/8d57bd2c-2d69-4695-8d16-32655460efbb" />
+<img width="796" height="89" alt="image" src="https://github.com/user-attachments/assets/73b44e49-d0c3-4a8a-93f7-021e7581f8ca" />
 
+<img width="576" height="312" alt="image" src="https://github.com/user-attachments/assets/b33204a9-8174-4462-b496-1ed9acb2aefa" />
+
+
+<img width="537" height="669" alt="image" src="https://github.com/user-attachments/assets/e13a79c2-80a4-40fe-a9fa-b28a366d0e7c" />
+
+<img width="560" height="77" alt="image" src="https://github.com/user-attachments/assets/15468048-022c-4b8a-8ce5-1fb500154a70" />
+
+<img width="668" height="118" alt="image" src="https://github.com/user-attachments/assets/8f7acaaf-420c-4776-8eb2-ebddc55b2db1" />
+
+<img width="688" height="294" alt="image" src="https://github.com/user-attachments/assets/a0cdd9a8-6580-4668-bae4-02a57e6736ef" />
+
+<img width="669" height="646" alt="image" src="https://github.com/user-attachments/assets/dea0fc4e-ea72-45f8-93bd-644f7ebfe46c" />
+
+<img width="529" height="348" alt="image" src="https://github.com/user-attachments/assets/b33644b8-1c3c-40a3-9822-e5bb47f9981f" />
+
+<img width="644" height="647" alt="image" src="https://github.com/user-attachments/assets/e5a07882-e742-49b9-b586-e53331fd095f" />
+
+<img width="499" height="359" alt="image" src="https://github.com/user-attachments/assets/ae4bb65a-1730-4611-9fbb-0a8e6a86a3b0" />
+
+
+<img width="734" height="504" alt="image" src="https://github.com/user-attachments/assets/473e910f-f8ae-454e-818e-d1b8293a8bd1" />
 
