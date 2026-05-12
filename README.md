@@ -150,7 +150,7 @@ Each image undergoes the following preprocessing using OpenCV:
 | Epochs | 30 |
 | Batch size | 32 |
 | Loss function | Class-weighted cross-entropy |
-| Class weights | [1.0, 1.0, 1.1, 1.1] |
+| Class weights | [1.0, 1.0, 1.0, 1.0] |
 | Label smoothing | ε = 0.1 |
 | Pretrained weights | ImageNet (ILSVRC) |
 | Mixed precision | Enabled (FP16) |
